@@ -5,3 +5,8 @@ https://www.youtube.com/watch?v=oHo_tiRlXDQ
 
 I just added button instead of floatingActionButton
 
+https://github.com/ArthurHub/Android-Image-Cropper
+
+
+
+
