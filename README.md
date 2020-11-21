@@ -4,7 +4,7 @@ Taking image from Gallery and Croping it using android image cropper library
 https://github.com/ArthurHub/Android-Image-Cropper
 
 
-For any issue Feel free to contact 
+
 
 
 
